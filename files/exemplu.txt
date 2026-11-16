@@ -1,0 +1,1 @@
+Acesta este un fisier de test pentru proiectul AWS S3.
